@@ -1,4 +1,5 @@
-# 🚀 Snippets para WordPress !GitHub last commit
+# 🚀 Snippets para WordPress ![master](https://img.shields.io/github/last-commit/badges/shields/master)
+
 
 Bienvenido a mi repositorio de snippets para WordPress. Aquí encontrarás una colección de fragmentos de código útiles que te ayudarán a personalizar tu sitio de WordPress de manera eficiente.
 
